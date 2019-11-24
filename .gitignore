@@ -2,3 +2,5 @@
 pagemac
 .vscode/launch.json
 .vscode/tasks.json
+logs/
+.DS_Store
